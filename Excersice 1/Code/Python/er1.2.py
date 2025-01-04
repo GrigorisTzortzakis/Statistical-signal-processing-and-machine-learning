@@ -1,30 +1,30 @@
 import numpy as np
 from scipy.signal import lfilter
 
-# Step 1: Generate Input Signal
-N = 1000  # Length of the signal
-x = np.random.randn(N)  # White Gaussian noise
+# input signal/shma eisodou
+N = 1000  # Number of samples/arithmos deigmaton
+x = np.random.randn(N)  # White Gaussian noise with 0 mean values and dispersion of 1/leukos thorivos opos zitite
 
-# Step 2: Simulate the Unknown System
-h = [1, -0.4, -4, 0.5]  # Coefficients of H(z)
-d = lfilter(h, [1], x)  # Output signal using H(z)
+# Simulating the Unknown System/prosomiosi tou agnostou sistimatos
+h = [1, -0.4, -4, 0.5]  # Coefficients of H(z)/sidelestes pou dinode
+d = lfilter(h, [1], x)  # Output signal of the system/eksodon d(n)
 
-# Step 3: Form the Input Matrix
-L = len(h)  # Filter length
+# Forming the Input matrix/mhtroo eisodou
+L = len(h)  # Filter length/mhkos filtrou
 X = np.zeros((N, L))
 for i in range(L):
     X[i:, i] = x[:N - i]
 
-# Step 4: Compute Autocorrelation Matrix
-R_x = (X.T @ X) / N  # Autocorrelation matrix
+# Computing  Autocorrelation matrix/ipologismos matrhou autosisxetisis
+R_x = (X.T @ X) / N
 
-# Step 5: Compute Cross-Correlation Vector
-p = (X.T @ d) / N  # Cross-correlation vector
+#  Computing Cross-Correlation Vector/ ipologismos dianismatos autosisxetishs
+p = (X.T @ d) / N
 
-# Step 6: Solve for Wiener Filter Coefficients
-w = np.linalg.solve(R_x, p)  # Solve Wiener-Hopf equation
+# Solving the wiener hopf equation/ lisi eksisosis
+w = np.linalg.solve(R_x, p)
 
-# Step 7: Display the Results
+
 print("Estimated Coefficients of H(z):")
 print(w)
 print("Actual Coefficients of H(z):")
