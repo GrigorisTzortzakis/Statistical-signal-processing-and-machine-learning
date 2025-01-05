@@ -130,7 +130,7 @@ The evolution of the weights over iterations is visualized for both variations:
 
 </div>
 
-Learning Curve
+## Learning Curve
 
 The learning curves for both smooth and abrupt variations are:
 
