@@ -77,8 +77,9 @@ The LMS algorithm is analyzed for different step sizes \( \mu \):
 \[ \mu = [0.001 \mu_{\text{max}}, 0.01 \mu_{\text{max}}, 0.1 \mu_{\text{max}}, 0.5 \mu_{\text{max}}] \]
 
 **Result:**
+<div>
 ![Different Step Sizes - Question 1.3.3](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question1.3.3-Different-Step-Sizes.png)
-
+</div>
 ---
 
 #### Question 1.3.3.1 - Learning Curve
@@ -86,8 +87,9 @@ The LMS algorithm is analyzed for different step sizes \( \mu \):
 The learning curve for the LMS algorithm with different step sizes is plotted:
 
 **Result:**
+<div>
 ![Learning Curve - Question 1.3.3.1](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question1.3.3.1-Learning-Curve.png)
-
+</div>
 ---
 
 ## LTV System Identification
@@ -121,15 +123,17 @@ The estimated weights for both smooth and abrupt variations are:
 The evolution of the weights over iterations is visualized for both variations:
 
 **Result:**
+<div>
 ![Weight Evolution - Question 2.3](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.3-Weight-evolution.png)
-
+</div>
 #### Learning Curve
 
 The learning curves for both smooth and abrupt variations are:
 
 **Result:**
+<div>
 ![Learning Curve - Question 2.3](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.3-Learning-Curve.png)
-
+</div>
 ---
 
 ### Error Analysis over Multiple Realizations (Question 2.4)
@@ -137,8 +141,9 @@ The learning curves for both smooth and abrupt variations are:
 The LMS algorithm is run for 20 different realizations of the reference signal \( d(n) \), and the average squared error is calculated and plotted.
 
 **Result:**
+<div>
 ![Average Error - Question 2.4](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.4-Average-Error.png)
-
+</div>
 ---
 
 ## Results
