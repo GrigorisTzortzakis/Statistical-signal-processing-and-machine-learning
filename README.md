@@ -63,7 +63,7 @@ The LMS algorithm is an iterative approach to minimize the error \( e(n) \) and 
 
 #### Question 1.3.2 - LMS Filter Coefficients
 
-The LMS algorithm is implemented with 4 coefficients, initialized to zero. The results are as follows:
+The LMS algorithm is implemented with 4 coefficients, initialized to zero and a step size of μ=0.1μmax. The results are as follows:
 
 **Result:**
 
