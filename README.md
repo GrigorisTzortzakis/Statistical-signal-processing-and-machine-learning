@@ -78,7 +78,7 @@ The LMS algorithm is analyzed for different step sizes \( \mu \):
 
 **Result:**
 <div>
-![Different Step Sizes - Question 1.3.3](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question1.3.3-Different-Step-Sizes.png)
+   <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question1.3.3-Different-Step-Sizes.png">
 </div>
 ---
 
@@ -124,7 +124,8 @@ The evolution of the weights over iterations is visualized for both variations:
 
 **Result:**
 <div>
-![Weight Evolution - Question 2.3](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.3-Weight-evolution.png)
+    <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.3-Weight-evolution.png">
+
 </div>
 #### Learning Curve
 
@@ -132,7 +133,8 @@ The learning curves for both smooth and abrupt variations are:
 
 **Result:**
 <div>
-![Learning Curve - Question 2.3](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.3-Learning-Curve.png)
+    <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.3-Learning-Curve.png">
+
 </div>
 ---
 
@@ -142,7 +144,8 @@ The LMS algorithm is run for 20 different realizations of the reference signal \
 
 **Result:**
 <div>
-![Average Error - Question 2.4](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.4-Average-Error.png)
+     <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.4-Average-Error.png">
+
 </div>
 ---
 
