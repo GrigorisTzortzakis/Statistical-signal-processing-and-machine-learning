@@ -129,7 +129,8 @@ The evolution of the weights over iterations is visualized for both variations:
     <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.3-Weight-evolution.png">
 
 </div>
-#### Learning Curve
+
+####Learning Curve
 
 The learning curves for both smooth and abrupt variations are:
 
