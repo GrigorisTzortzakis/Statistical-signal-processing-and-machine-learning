@@ -106,6 +106,7 @@ The weights and learning curves for both variations are analyzed.
 The estimated weights for both smooth and abrupt variations are:
 
 **Result:**
+
 ![Weights of Each System - Question 2.3](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.3-Weights-of-each-system.png)
 
 #### Weight Evolution
