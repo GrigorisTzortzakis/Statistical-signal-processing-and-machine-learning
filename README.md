@@ -86,7 +86,7 @@ The LMS algorithm is analyzed for different step sizes μ:
 
 #### Question 1.3.3.1 - Learning Curve
 
-The learning curve for the LMS algorithm with step size μ=0.01 and different filter lengths is plotted:
+The learning curve for the LMS algorithm with step size μ=0.01 and different filter lengths (L=3,5) is plotted:
 
 **Result:**
 <div>
