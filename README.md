@@ -167,7 +167,8 @@ The LMS algorithm is run for 20 different realizations of the reference signal \
 
 - MATLAB or Python installed on your system.
 - Python dependencies (if using Python):
+```python
 import numpy as np
 import matplotlib
-matplotlib.use("TkAgg")  
+matplotlib.use("TkAgg")
 import matplotlib.pyplot as plt
