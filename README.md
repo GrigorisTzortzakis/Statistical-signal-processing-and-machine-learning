@@ -1,7 +1,8 @@
 # Statistical Signal Processing and Machine Learning - Exercise 1
 
-This repository contains the solutions to **Exercise 1** of the course "Statistical Signal Processing and Machine Learning." The exercise focuses on system identification for Linear Time-Invariant (LTI) and Linear Time-Variant (LTV) systems using Wiener and LMS algorithms. The implementation is carried out in **MATLAB** and **Python**, and the results are visualized using provided plots.
+This repository contains solutions to Exercise 1 and Excersice 2 from the course "Statistical Signal Processing and Machine Learning" at the University of Patras for the academic year 2024-2025.
 
+The focus of Exercise 1 is on system identification and learning algorithms, specifically the Wiener Filter and LMS Algorithm, applied to both Linear Time-Invariant (LTI) and Linear Time-Variant (LTV) systems. This exercise explore theoretical concepts and their practical implementation in both MATLAB and Python, with results visualized through detailed plots.
 ---
 
 ## Table of Contents
