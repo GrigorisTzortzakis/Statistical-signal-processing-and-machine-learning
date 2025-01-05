@@ -75,8 +75,8 @@ The LMS algorithm is implemented with 4 coefficients, initialized to zero. The r
 
 #### Question 1.3.3 - LMS with Different Step Sizes
 
-The LMS algorithm is analyzed for different step sizes \( \mu \): 
-\[ \mu = [0.001 \mu_{\text{max}}, 0.01 \mu_{\text{max}}, 0.1 \mu_{\text{max}}, 0.5 \mu_{\text{max}}] \]
+The LMS algorithm is analyzed for different step sizes μ: 
+0.001μmax, 0.01μmax, 0.1μmax, 0.5μmax
 
 **Result:**
 <div>
