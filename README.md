@@ -47,7 +47,11 @@ The system's output \( d(n) \) is modeled using a known input \( x(n) \) and an 
 The Wiener filter is used to identify the unknown system \( H(z) \) based on the input \( x(n) \) and the desired output \( d(n) \). The filter minimizes the mean squared error (MSE) between the system output and the desired signal.
 
 **Result:**
-![Wiener Filter - Question 1.2](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Queston1.2-Wiener.png)
+
+<div style="text-align: center;">
+    <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Queston1.2-Wiener.png" alt="Wiener Filter - Question 1.2" style="width: 600px; margin-top: 10px;">
+</div>
+
 
 ---
 
