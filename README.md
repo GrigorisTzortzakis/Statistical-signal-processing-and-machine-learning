@@ -64,7 +64,10 @@ The LMS algorithm is an iterative approach to minimize the error \( e(n) \) and 
 The LMS algorithm is implemented with 4 coefficients, initialized to zero. The results are as follows:
 
 **Result:**
-![LMS - Question 1.3.2](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question1.3.2-LMS.png)
+
+<div style="text-align: center;">
+    <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question1.3.2-LMS.png" alt="Wiener Filter - Question 1.2" style="width: 600px; margin-top: 10px;">
+</div>
 
 ---
 
