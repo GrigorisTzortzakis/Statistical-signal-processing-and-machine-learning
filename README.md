@@ -88,7 +88,7 @@ The learning curve for the LMS algorithm with different step sizes is plotted:
 
 **Result:**
 <div>
-![Learning Curve - Question 1.3.3.1](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question1.3.3.1-Learning-Curve.png)
+<img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question1.3.3.1-Learning-Curve.png">
 </div>
 ---
 
