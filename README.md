@@ -34,7 +34,7 @@ The questions are solved step-by-step, and the results are plotted to visualize 
 
 The LTI system is represented as shown below:
 
-![LTI System](Pics/LTI_System.png)
+![LTI System](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/LTI_System.png)
 
 The system's output \( d(n) \) is modeled using a known input \( x(n) \) and an unknown system \( H(z) \). This unknown system is identified using two approaches:
 1. Wiener filter (optimal solution).
@@ -47,7 +47,7 @@ The system's output \( d(n) \) is modeled using a known input \( x(n) \) and an 
 The Wiener filter is used to identify the unknown system \( H(z) \) based on the input \( x(n) \) and the desired output \( d(n) \). The filter minimizes the mean squared error (MSE) between the system output and the desired signal.
 
 **Result:**
-![Wiener Filter - Question 1.2](Pics/Queston1.2-Wiener.png)
+![Wiener Filter - Question 1.2](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Queston1.2-Wiener.png)
 
 ---
 
@@ -60,7 +60,7 @@ The LMS algorithm is an iterative approach to minimize the error \( e(n) \) and 
 The LMS algorithm is implemented with 4 coefficients, initialized to zero. The results are as follows:
 
 **Result:**
-![LMS - Question 1.3.2](Pics/Question1.3.2-LMS.png)
+![LMS - Question 1.3.2](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question1.3.2-LMS.png)
 
 ---
 
@@ -70,7 +70,7 @@ The LMS algorithm is analyzed for different step sizes \( \mu \):
 \[ \mu = [0.001 \mu_{\text{max}}, 0.01 \mu_{\text{max}}, 0.1 \mu_{\text{max}}, 0.5 \mu_{\text{max}}] \]
 
 **Result:**
-![Different Step Sizes - Question 1.3.3](Pics/Question1.3.3-Different-Step-Sizes.png)
+![Different Step Sizes - Question 1.3.3](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question1.3.3-Different-Step-Sizes.png)
 
 ---
 
@@ -79,7 +79,7 @@ The LMS algorithm is analyzed for different step sizes \( \mu \):
 The learning curve for the LMS algorithm with different step sizes is plotted:
 
 **Result:**
-![Learning Curve - Question 1.3.3.1](Pics/Question1.3.3.1-Learning-Curve.png)
+![Learning Curve - Question 1.3.3.1](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question1.3.3.1-Learning-Curve.png)
 
 ---
 
@@ -89,7 +89,7 @@ The learning curve for the LMS algorithm with different step sizes is plotted:
 
 The LTV system introduces time-varying behavior into the impulse response. The system's structure is shown below:
 
-![LTV System](Pics/LTV_System.png)
+![LTV System](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/LTV_System.png)
 
 Two types of variations are studied:
 1. **Smooth Variation**: A continuous change in the impulse response.
@@ -106,21 +106,21 @@ The weights and learning curves for both variations are analyzed.
 The estimated weights for both smooth and abrupt variations are:
 
 **Result:**
-![Weights of Each System - Question 2.3](Pics/Question2.3-Weights-of-each-system.png)
+![Weights of Each System - Question 2.3](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.3-Weights-of-each-system.png)
 
 #### Weight Evolution
 
 The evolution of the weights over iterations is visualized for both variations:
 
 **Result:**
-![Weight Evolution - Question 2.3](Pics/Question2.3-Weight-evolution.png)
+![Weight Evolution - Question 2.3](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.3-Weight-evolution.png)
 
 #### Learning Curve
 
 The learning curves for both smooth and abrupt variations are:
 
 **Result:**
-![Learning Curve - Question 2.3](Pics/Question2.3-Learning-Curve.png)
+![Learning Curve - Question 2.3](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.3-Learning-Curve.png)
 
 ---
 
@@ -129,7 +129,7 @@ The learning curves for both smooth and abrupt variations are:
 The LMS algorithm is run for 20 different realizations of the reference signal \( d(n) \), and the average squared error is calculated and plotted.
 
 **Result:**
-![Average Error - Question 2.4](Pics/Question2.4-Average-Error.png)
+![Average Error - Question 2.4](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.4-Average-Error.png)
 
 ---
 
