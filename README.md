@@ -51,7 +51,7 @@ The Wiener filter is used to identify the unknown system \( H(z) \) based on the
 **Result:**
 
 <div style="text-align: center;">
-    <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Queston1.2-Wiener.png" alt="Wiener Filter - Question 1.2" style="width: 600px; margin-top: 10px;">
+    <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Exercise%201/Pics/Queston1.2-Wiener.png" alt="Wiener Filter - Question 1.2" style="width: 600px; margin-top: 10px;">
 </div>
 
 
@@ -68,7 +68,7 @@ The LMS algorithm is implemented with 4 coefficients, initialized to zero and a 
 **Result:**
 
 <div style="text-align: center;">
-    <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question1.3.2-LMS.png" alt="Wiener Filter - Question 1.2" style="width: 600px; margin-top: 10px;">
+    <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Exercise%201/Pics/Question1.3.2-LMS.png" alt="Wiener Filter - Question 1.2" style="width: 600px; margin-top: 10px;">
 </div>
 
 ---
@@ -80,7 +80,7 @@ The LMS algorithm is analyzed for different step sizes μ:
 
 **Result:**
 <div>
-   <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question1.3.3-Different-Step-Sizes.png">
+   <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Exercise%201/Pics/Question1.3.3-Different-Step-Sizes.png">
 </div>
 ---
 
@@ -90,7 +90,7 @@ The learning curve for the LMS algorithm with step size μ=0.01 and different fi
 
 **Result:**
 <div>
-<img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question1.3.3.1-Learning-Curve.png">
+<img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Exercise%201/Pics/Question1.3.3.1-Learning-Curve.png">
 </div>
 ---
 
@@ -100,7 +100,7 @@ The learning curve for the LMS algorithm with step size μ=0.01 and different fi
 
 The LTV system introduces time-varying behavior into the impulse response. The system's structure is shown below:
 
-![LTV System](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/LTV_System.png)
+![LTV System](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Exercise%201/Pics/LTV_System.png)
 
 Two types of variations are studied:
 1. **Smooth Variation**: A continuous change in the impulse response.
@@ -118,7 +118,7 @@ The estimated weights for both smooth and abrupt variations are:
 
 **Result:**
 
-![Weights of Each System - Question 2.3](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.3-Weights-of-each-system.png)
+![Weights of Each System - Question 2.3](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Exercise%201/Pics/Question2.3-Weights-of-each-system.png)
 
 #### Weight Evolution
 
@@ -126,7 +126,7 @@ The evolution of the weights over iterations is visualized for both variations:
 
 **Result:**
 <div>
-    <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.3-Weight-evolution.png">
+    <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Exercise%201/Pics/Question2.3-Weight-evolution.png">
 
 </div>
 
@@ -136,7 +136,7 @@ The learning curves for both smooth and abrupt variations are:
 
 **Result:**
 <div>
-    <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.3-Learning-Curve.png">
+    <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Exercise%201/Pics/Question2.3-Learning-Curve.png">
 
 </div>
 ---
@@ -147,7 +147,7 @@ The LMS algorithm is run for 20 different realizations of the reference signal \
 
 **Result:**
 <div>
-     <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/Question2.4-Average-Error.png">
+     <img src="https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Exercise%201/Pics/Question2.4-Average-Error.png">
 
 </div>
 ---
