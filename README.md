@@ -36,7 +36,7 @@ The questions are solved step-by-step, and the results are plotted to visualize 
 
 The LTI system is represented as shown below:
 
-![LTI System](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Excersice%201/Pics/LTI_System.png)
+![LTI System](https://github.com/GrigorisTzortzakis/Statistical-signal-processing-and-machine-learning/blob/main/Exercise%201/Pics/LTI_System.png)
 
 The system's output \( d(n) \) is modeled using a known input \( x(n) \) and an unknown system \( H(z) \). This unknown system is identified using two approaches:
 1. Wiener filter (optimal solution).
