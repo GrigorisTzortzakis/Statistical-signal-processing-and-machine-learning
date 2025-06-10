@@ -1,4 +1,4 @@
-# README
+# Statistical signal processing
 
 **Course:** Statistical Signal Processing and Learning  
 **Department:** Computer Engineering & Informatics (CEID), University of Patras  
